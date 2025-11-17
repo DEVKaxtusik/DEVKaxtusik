@@ -1,13 +1,58 @@
+<div align="center">
 
-# 💻 Technologie które używam:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 Statystyki:
-![](https://github-readme-stats.vercel.app/api?username=DEVKaxtusik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DEVKaxtusik&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVKaxtusik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Visits
 
-### 🔝 Najwięcej kontrybucji
-![](https://github-contributor-stats.vercel.app/api?username=DEVKaxtusik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Profile Views](https://count.getloli.com/@kaxtusikcounter?name=kaxtusikcounter&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+# 👋 Hey, I'm Kaxtusik
+
+### Backend Developer | Minecraft Plugins Enthusiast
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DEVKaxtusik&icon=5&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+I'm a passionate backend developer with a strong focus on Minecraft plugin creation and server-side automation. Most of my experience is in Java, building custom plugins for PaperMC and Spigot. I love optimizing gameplay mechanics, and making community-driven server projects come to life. Currently, I'm exploring advanced frameworks and enjoying the challenge of scalable system design.
+
+```typescript
+export const kaxtusik = {
+    role: "Backend Developer",
+    languages: [Language.Polish, Language.English, Language.German],
+    currentFocus: ["Java", "Web Development", "Server Architecture"],
+    learning: ["Spring Boot", "Software testing"],
+    funFact: "I debug better at night ☕",
+    favAnime: "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life"
+};
+```
+
+## 🛠️ Tech Stack
+
+**Backend & Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaxtusik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaxtusik&theme=radical&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVKaxtusik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
