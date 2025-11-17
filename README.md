@@ -51,8 +51,6 @@ export const kaxtusik = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVKaxtusik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEVKaxtusik&theme=radical&hide_border=true&background=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVKaxtusik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
