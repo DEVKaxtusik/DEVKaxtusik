@@ -1,5 +1,8 @@
 <div align="center">
 
+# @kaxtusik
+[![Discord Presence](https://lanyard.cnrad.dev/api/549599621056561152?borderRadius=10)](https://discord.com/users/549599621056561152)
+
 # Visits
 
 ![Profile Views](https://count.getloli.com/@kaxtusikcounter?name=kaxtusikcounter&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
