@@ -23,10 +23,10 @@ I'm a passionate backend developer with a strong focus on Minecraft plugin creat
 export const kaxtusik = {
     role: "Backend Developer",
     languages: [Language.Polish, Language.English, Language.German],
-    currentFocus: ["Java", "Web Development", "Server Architecture"],
+    currentFocus: ["TypeScript", "Web Development", "Server Architecture"],
     learning: ["Spring Boot", "Software testing"],
     funFact: "I debug better at night ☕",
-    favAnime: "Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life"
+    favAnime: "Oshi No Ko"
 };
 ```
 
